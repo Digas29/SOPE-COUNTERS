@@ -1,0 +1,49 @@
+make
+./bin/balcao dolce_vita 60 & ./bin/balcao dolce_vita 60 & ./bin/balcao dolce_vita 60 &
+./bin/ger_cl dolce_vita 1000 
+./bin/balcao dolce_vita 60 & ./bin/balcao dolce_vita 60 & ./bin/balcao dolce_vita 60 &
+./bin/ger_cl dolce_vita 100 
+./bin/balcao dolce_vita 60 & ./bin/balcao dolce_vita 60 & ./bin/balcao dolce_vita 60 &
+./bin/ger_cl dolce_vita 2000 
+
+OUTPUT DO PROGRAMA:
+
+STATISTICS dolce_vita 
+
+#1 COUNTER 
+
+Time opened: 60 
+Clients served: 834 
+Average time per client: 9.892086 
+
+#2 COUNTER 
+
+Time opened: 60 
+Clients served: 834 
+Average time per client: 9.892086 
+
+#3 COUNTER 
+
+Time opened: 60 
+Clients served: 383 
+Average time per client: 9.882508 
+
+#4 COUNTER 
+
+Time opened: 60 
+Clients served: 383 
+Average time per client: 9.882508 
+
+#5 COUNTER 
+
+Time opened: 60 
+Clients served: 333 
+Average time per client: 9.864866 
+
+#6 COUNTER 
+
+Time opened: 60 
+Clients served: 333 
+Average time per client: 9.864866 
+
+
